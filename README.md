@@ -1,3 +1,3 @@
 ## Projects
 
-**Some projects I have worked on**
+**Cancer cell detection with a neural network**
